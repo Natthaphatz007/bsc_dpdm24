@@ -1,7 +1,8 @@
 # bsc_dpdm24
 SIDS KKU Data Preparation and Data Mining 
 By *Natthaphat Taksin* Student ID : *653020568-5*
-Grading Top25% A : B+ - D ตามเกณฑ์
+
+### Grading Top25% A : B+ - D ตามเกณฑ์
 Work | Details | Scores
 -----|-----|-----
 Midterm | data prepocessing ปฏิบัติ (เดี่ยว) | 20%|
